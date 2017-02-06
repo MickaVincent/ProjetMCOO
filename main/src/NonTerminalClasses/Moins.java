@@ -10,6 +10,5 @@ public class Moins extends NonTerminal {
     public Moins(Entier a, Entier b)
     {
 
-
     }
 }
